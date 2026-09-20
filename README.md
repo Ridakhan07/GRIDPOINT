@@ -3,7 +3,7 @@
 ## Warehouse Location Optimization Platform
 
 [🚀 Live Demo](https://gridpoint-beh5vykdslpo3jjxuxkpau.streamlit.app/)  
-[💻 GitHub Repository](YOUR_GITHUB_REPOSITORY_URL)
+[💻 GitHub Repository](https://github.com/Ridakhan07/GRIDPOINT.git)
 
 GRIDPOINT is a warehouse location optimization platform designed for
 e-commerce logistics.
@@ -136,3 +136,17 @@ Demand × Distance
 | Ananya | Streamlit / UI |
 | bavitha| Data / Algorithms |
 | shreya| Presentation / Demo | 
+
+## 📸 Screenshots
+
+### GRIDPOINT Dashboard
+
+![GRIDPOINT Dashboard](screenshots/dashboard.png)
+
+### Optimized Warehouse Map
+
+![Optimized Warehouse Map](screenshots/optimized-map.png)
+
+### Delivery Cost Comparison
+
+![Delivery Cost Comparison](screenshots/cost-comparison.png)
