@@ -150,3 +150,14 @@ Demand × Distance
 ### Delivery Cost Comparison
 
 ![Delivery Cost Comparison](screenshots/cost-comparison.png)
+
+## 🤖 AI Contribution
+
+AI tools were used as development assistants throughout this project.
+
+| Tool | Contribution |
+|---|---|
+| ChatGPT | Ideation, explanations, debugging, and documentation |
+| Claude | Code assistance, debugging, and refinement |
+
+The final implementation was reviewed and tested by the team.
